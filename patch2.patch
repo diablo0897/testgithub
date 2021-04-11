@@ -1,0 +1,14 @@
+Index: main.go
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.go b/main.go
+--- a/main.go	(revision 46df9d834ad7b7cd64f3e19b99830b7a61c6c0c0)
++++ b/main.go	(date 1618177392554)
+@@ -8,4 +8,5 @@
+ 	fmt.Println("anther change")
+ 	//ttt
+ 	//this is patch 1
++	//this is patch 2
+ }
